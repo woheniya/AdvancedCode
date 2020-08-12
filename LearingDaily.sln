@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "多线程", "多线程", "{1D14AC90-6D78-4003-945F-6D96C16DCFCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadLearning", "ThreadLearning\ThreadLearning.csproj", "{4D559FDB-DF4F-46FB-B35A-AF1C68801617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D559FDB-DF4F-46FB-B35A-AF1C68801617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D559FDB-DF4F-46FB-B35A-AF1C68801617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D559FDB-DF4F-46FB-B35A-AF1C68801617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D559FDB-DF4F-46FB-B35A-AF1C68801617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D559FDB-DF4F-46FB-B35A-AF1C68801617} = {1D14AC90-6D78-4003-945F-6D96C16DCFCB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A02297C-A9B3-4142-9FEA-E1AECA96746E}
+	EndGlobalSection
+EndGlobal
